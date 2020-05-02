@@ -9,22 +9,8 @@
 -------------------------------------------------------
 ]]
 
-ui_page 'html/index.html'
-
-client_scripts{
-	"lib/Tunnel.lua",
-	"lib/Proxy.lua",
-	"config.lua",
-	'client.lua'
-}
 server_scripts {
-	'@mysql-async/lib/MySQL.lua',
 	'@vrp/lib/utils.lua',
 	"config.lua",
 	'server.lua'
-}
-
-files {
-	'html/index.html',
-	'html/assets/js/init.js',
 }
