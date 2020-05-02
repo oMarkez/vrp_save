@@ -6,8 +6,7 @@ Video - https://streamable.com/frfk38
 [DK]
 vrp_save er en resource som giver dig mulighed for at gemme alle spillers data i vRP gennem /gem. Dette vil formindske rollback når serveren f.eks genstartes. Spillere kan også selv manuelt gemme deres data.
 
-BRUG:
-
+Brug:
 
  - /gem - Gemmer kun data for den person, der skriver kommandoen. Kan kun bruges hvert 30 sekund for folk ikke spammer SQL queries.
  - /gemalle [timer] - Kræver en permission, som angives i config.lua. Denne kommando gemmer alle online spillers data. [timer] kan bruges til at udskyde dette data gem, i sekunder. F.eks: /gemalle 20, udskyder det med 20 sekunder.
