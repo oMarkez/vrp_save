@@ -20,3 +20,5 @@ Usage:
  - /config.commandall [timer] - Saves all currently connected player's data, and requires a permission [config.permall]. [timer] can be used to postpone the save, in seconds. For example: [config.commandall] 20, will postpone the save with 20 seconds.
 
 Edit config.command & config.commandall in the config.lua file, that is currently in danish.
+
+https://discord.gg/MNSajY
